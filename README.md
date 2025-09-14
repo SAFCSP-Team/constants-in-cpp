@@ -6,7 +6,7 @@ In this project, our main goal is to understand constants in C++.
 
 ### Problem
 
-Develop a program that converts an hour to minutes by declaring a constant called `minutePerHour`.
+Develop a program that converts an hour to minutes by declaring a constant called `minutesPerHour`.
 
 ### Implementation
 - Write your code in the main function.
@@ -15,7 +15,7 @@ Develop a program that converts an hour to minutes by declaring a constant calle
 #include <iostream>
 
 int main() {
-    /* Your code here*/
+    /*Your code here*/
     return 0;
 }
 
